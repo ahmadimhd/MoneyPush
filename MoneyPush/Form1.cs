@@ -117,7 +117,6 @@ namespace MoneyPush
                             }
                         }
                     }
-
                 }
                 else {
                     int Statutcode = (int)responseString.StatusCode;
